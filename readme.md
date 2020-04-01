@@ -1,6 +1,6 @@
 # DESAFIO AUDO
 Author: Brena
-E-mail: 
+E-mail: brenakesia6@gmail.com
 
 ## VERSÃO DO PYTHON 
 3.7
